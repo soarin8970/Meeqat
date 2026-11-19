@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+
+# Packaging
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+
+# Development backups
+app_backup.py
+app_before_*.py
+
+# Temporary icon files
+Meeqat.iconset/
