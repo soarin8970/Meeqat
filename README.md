@@ -17,7 +17,7 @@ Meeqat is a lightweight desktop prayer-times application built with Python and P
 
 ## Screenshots
 
-_Screenshots coming soon._
+![Meeqat Prayer Times](screenshots/meeqat_default.png)
 
 ## Built With
 
